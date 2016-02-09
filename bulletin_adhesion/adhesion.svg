@@ -15,7 +15,7 @@
    viewBox="0 0 744.09449 524.40944"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="adhesion.svg">
   <defs
      id="defs4" />
@@ -28,7 +28,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="330.71926"
-     inkscape:cy="277.87384"
+     inkscape:cy="220.73098"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,10 +37,10 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="false"
      inkscape:bbox-nodes="true"
-     inkscape:window-width="1918"
-     inkscape:window-height="1061"
+     inkscape:window-width="1676"
+     inkscape:window-height="988"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-to-guides="true">
     <sodipodi:guide
@@ -118,7 +118,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -352,7 +352,7 @@
            height="225.18629"
            x="35.277607"
            y="149.64282" /></flowRegion><flowPara
-         id="flowPara5947"></flowPara></flowRoot>    <flowRoot
+         id="flowPara5947" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5953"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -438,76 +438,81 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" /></flowRegion><flowPara
          id="flowPara6057-3-0-5">Apporter son projet &amp; contribuer aux projets de groupe</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
        x="-1016.9291"
-       y="520.51184"
+       y="504.51184"
        id="text6167"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          x="-1016.9291"
-         y="520.51184"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         y="504.51184"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
          id="tspan6171">Nom &amp; Prénom* :</tspan><tspan
          sodipodi:role="line"
          x="-1016.9291"
-         y="536.13684"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         y="520.13684"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
          id="tspan6175">Payé le* :</tspan><tspan
          sodipodi:role="line"
          x="-1016.9291"
-         y="551.76184"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         y="535.76184"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
          id="tspan6177">Montant* :                       (prix libre à partir de 30€/an)</tspan><tspan
          sodipodi:role="line"
          x="-1016.9291"
-         y="567.38684"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         y="551.38684"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
+         id="tspan3399">Moyen de paiement* :</tspan><tspan
+         sodipodi:role="line"
+         x="-1016.9291"
+         y="567.01184"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
          id="tspan6179">Adresse courriel* :</tspan><tspan
          sodipodi:role="line"
          x="-1016.9291"
-         y="583.01184"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         y="582.63684"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
          id="tspan6181">Téléphone :</tspan><tspan
          sodipodi:role="line"
          x="-1016.9291"
-         y="598.63684"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         y="598.26184"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
          id="tspan6185">Twitter :</tspan><tspan
          sodipodi:role="line"
          x="-1016.9291"
-         y="614.26184"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         y="613.88684"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
          id="tspan6189">Facebook :</tspan><tspan
          sodipodi:role="line"
          x="-1016.9291"
-         y="629.88684"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         y="629.51184"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
          id="tspan6197" /><tspan
          sodipodi:role="line"
          x="-1016.9291"
-         y="645.51184"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         y="645.13684"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
          id="tspan6199">     J'ai lu et j'accepte le règlement intérieur de l'asso</tspan><tspan
          sodipodi:role="line"
          x="-1016.9291"
-         y="661.13684"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         y="660.76184"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
          id="tspan6201" /><tspan
          sodipodi:role="line"
          x="-1016.9291"
-         y="676.76184"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         y="676.38684"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
          id="tspan6203">Fait à Le Mans le</tspan><tspan
          sodipodi:role="line"
          x="-1016.9291"
-         y="692.38684"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
-         id="tspan6205">Signature</tspan><tspan
+         y="692.01184"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
+         id="tspan3401">Signature</tspan><tspan
          sodipodi:role="line"
          x="-1016.9291"
-         y="708.01184"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         y="707.63684"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
          id="tspan6191" /></text>
     <text
        xml:space="preserve"
