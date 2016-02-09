@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-209.55876"
-     inkscape:cy="672.01468"
+     inkscape:zoom="1.4"
+     inkscape:cx="421.77212"
+     inkscape:cy="650.61121"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4212"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -41,9 +41,9 @@
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="true"
      inkscape:window-width="1918"
-     inkscape:window-height="1061"
-     inkscape:window-x="1920"
-     inkscape:window-y="18"
+     inkscape:window-height="1078"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata4240">
@@ -62,7 +62,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       transform="matrix(0.72135133,0,0,0.72135133,102.87796,-524.66119)"
+       transform="matrix(0.72135133,0,0,0.72135133,102.87796,-518.23262)"
        id="g4212"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -3285,74 +3285,79 @@
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:55.45148087px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="-86.463181"
-         y="1968.7505"
+         y="1941.0247"
          id="text7717"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan7719"
            x="-86.463181"
-           y="1968.7505"
+           y="1941.0247"
            style="font-size:31.19145775px">Au menu :</tspan><tspan
            sodipodi:role="line"
            x="-86.463181"
-           y="2007.7399"
+           y="1980.014"
            style="font-size:31.19145775px"
            id="tspan7731" /><tspan
            sodipodi:role="line"
            x="-86.463181"
-           y="2046.7291"
-           style="font-size:31.19145775px"
-           id="tspan7729">  - Le prix libre</tspan><tspan
-           sodipodi:role="line"
-           x="-86.463181"
-           y="2085.7183"
+           y="2019.0033"
            id="tspan7721"
-           style="font-size:31.19145775px">  - Modèle et erreurs dans les sciences</tspan><tspan
+           style="font-size:31.19145775px">  - Le prix libre</tspan><tspan
            sodipodi:role="line"
            x="-86.463181"
-           y="2124.7078"
+           y="2057.9927"
            id="tspan7723"
            style="font-size:31.19145775px">  - Conseils pratiques pour améliorer ses photos</tspan><tspan
            sodipodi:role="line"
            x="-86.463181"
-           y="2163.697"
+           y="2096.9822"
+           style="font-size:31.19145775px"
+           id="tspan5272">  - AMAP : Comment le bio va nourrir le monde ?</tspan><tspan
+           sodipodi:role="line"
+           x="-86.463181"
+           y="2135.9714"
+           style="font-size:31.19145775px"
+           id="tspan5270">  - Modèle et erreurs dans les sciences</tspan><tspan
+           sodipodi:role="line"
+           x="-86.463181"
+           y="2174.9607"
            id="tspan7727"
            style="font-size:31.19145775px" /></text>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.38628697px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 237.77524,1787.1906 0,83.1772 c -14.43555,3.0377 -28.59237,14.4593 -30.2862,29.5655 l -35.64738,0"
+         d="m 237.77524,1751.1468 0,83.1772 c -14.43555,3.0377 -28.59237,14.4593 -30.2862,29.5655 l -35.64738,0"
          id="path4647"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.38628697px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 237.99164,2051.9001 0,-83.1772 c -14.43555,-3.0377 -28.59237,-14.4593 -30.2862,-29.5655 l -35.64738,0"
+         d="m 237.99164,2015.8563 0,-83.1772 c -14.43555,-3.0377 -28.59237,-14.4593 -30.2862,-29.5655 l -35.64738,0"
          id="path4647-8"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.38628697px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 275.78596,1788.371 0,83.1772 c 14.43556,3.0377 28.59237,14.4593 30.2862,29.5655 l 429.25388,0"
+         d="m 275.78596,1752.3272 0,83.1772 c 14.43556,3.0377 28.59237,14.4593 30.2862,29.5655 l 429.25388,0"
          id="path4647-0"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.38628697px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 275.56956,2053.0805 0,-83.1772 c 14.43555,-3.0377 28.59237,-14.4594 30.2862,-29.5655 l 429.74898,0"
+         d="m 275.56956,2017.0367 0,-83.1772 c 14.43555,-3.0377 28.59237,-14.4594 30.2862,-29.5655 l 429.74898,0"
          id="path4647-8-0"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.19145775px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-2015.822"
+         x="-1979.7784"
          y="266.95181"
          id="text4693"
          sodipodi:linespacing="125%"
          transform="matrix(0,-1,1,0,0,0)"><tspan
            sodipodi:role="line"
            id="tspan4695"
-           x="-2015.822"
+           x="-1979.7784"
            y="266.95181">Bd Demorieux</tspan></text>
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.72101438;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3360,11 +3365,11 @@
          width="123.93601"
          height="44.224468"
          x="394.7352"
-         y="1845.7439"
+         y="1809.7003"
          ry="0" />
       <path
-         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.38628697px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-         d="m 736.18856,1892.1162 c 10.86605,20.9973 10.25468,40.56 0,58.9172 l 28.71595,-30.2013 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.38628697px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 736.18856,1856.0724 c 10.86605,20.9973 10.25468,40.56 0,58.9172 l 28.71595,-30.2013 z"
          id="path4713"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
@@ -3373,7 +3378,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:impact;-inkscape-font-specification:impact;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="395"
-       y="832.36224"
+       y="806.36224"
        id="text4699"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
@@ -3381,7 +3386,7 @@
          sodipodi:role="line"
          id="tspan4701"
          x="395"
-         y="832.36224"
+         y="806.36224"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Appart City</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3389,12 +3394,12 @@
        width="79.285713"
        height="31.785715"
        x="524.64288"
-       y="807.36218"
+       y="781.36218"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.65405816px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 515.2588,788.35719 c 8.29525,5.07541 17.94435,12.75755 21.86825,25.35325 l 5.01537,-1.07369 -2.15996,10.51757 -11.37176,-4.38398 5.5382,-1.76094 c -4.80327,-11.31692 -13.943,-19.26692 -23.42504,-23.0978 l 9.08271,1.93026 z"
+       d="m 515.2588,762.35719 c 8.29525,5.07541 17.94435,12.75755 21.86825,25.35325 l 5.01537,-1.07369 -2.15996,10.51757 -11.37176,-4.38398 5.5382,-1.76094 c -4.80327,-11.31692 -13.943,-19.26692 -23.42504,-23.0978 l 9.08271,1.93026 z"
        id="path4707"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -3404,7 +3409,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:impact;-inkscape-font-specification:impact;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="456.78571"
-       y="785.93359"
+       y="759.93359"
        id="text4709"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
@@ -3412,13 +3417,13 @@
          sodipodi:role="line"
          id="tspan4711"
          x="456.78571"
-         y="785.93359"
+         y="759.93359"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">HAUM &amp; Ruche Numérique</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:impact;-inkscape-font-specification:impact;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="685.71936"
-       y="856.77222"
+       y="830.77222"
        id="text4709-7"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
@@ -3426,11 +3431,11 @@
          sodipodi:role="line"
          id="tspan4711-2"
          x="685.71936"
-         y="856.77222"
+         y="830.77222"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle">Vers Gare</tspan><tspan
          sodipodi:role="line"
          x="685.71936"
-         y="875.52222"
+         y="849.52222"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle"
          id="tspan4741">Sud</tspan></text>
   </g>
