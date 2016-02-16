@@ -29,10 +29,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="421.77212"
-     inkscape:cy="650.61121"
+     inkscape:cx="283.764"
+     inkscape:cy="474.46025"
      inkscape:document-units="px"
-     inkscape:current-layer="g4212"
+     inkscape:current-layer="g4839"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -41,9 +41,9 @@
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="true"
      inkscape:window-width="1918"
-     inkscape:window-height="1078"
+     inkscape:window-height="1061"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="18"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata4240">
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -108,15 +108,15 @@
         <text
            sodipodi:linespacing="125%"
            id="text4835"
-           y="1049.1136"
-           x="-34.790565"
+           y="1043.5685"
+           x="-33.800362"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:97.04009247px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:97.04009247px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-             y="1049.1136"
-             x="-34.790565"
+             y="1043.5685"
+             x="-33.800362"
              id="tspan4837"
-             sodipodi:role="line">Vendredi</tspan></text>
+             sodipodi:role="line">Jeudi</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:55.45148087px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
