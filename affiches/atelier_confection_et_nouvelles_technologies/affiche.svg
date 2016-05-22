@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg3423"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="affiche.svg"
+   inkscape:export-filename="affiche.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs3425">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter3810">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix3812" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.80200524"
+     inkscape:cx="479.85213"
+     inkscape:cy="295.22931"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:snap-page="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-nodes="true"
+     borderlayer="true">
+    <sodipodi:guide
+       position="1024.931,426.43113"
+       orientation="1,0"
+       id="guide4823" />
+    <sodipodi:guide
+       position="357.85303,335.40928"
+       orientation="1,0"
+       id="guide4825" />
+    <sodipodi:guide
+       position="977.77595,711.51053"
+       orientation="0,1"
+       id="guide4827" />
+    <sodipodi:guide
+       position="687.70536,31.740247"
+       orientation="0,1"
+       id="guide4829" />
+    <sodipodi:guide
+       position="30.858574,400.27978"
+       orientation="1,0"
+       id="guide4831" />
+    <sodipodi:guide
+       position="324.45586,398.51643"
+       orientation="1,0"
+       id="guide4833" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3428">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4917"
+       width="1052.3622"
+       height="744.09448"
+       x="0"
+       y="308.26773" />
+    <g
+       id="g3681"
+       transform="translate(0,439.748)">
+      <g
+         inkscape:label="Calque 1"
+         id="layer1-6"
+         transform="matrix(0.40926482,0,0,0.40926482,21.473689,89.128795)">
+        <path
+           inkscape:connector-curvature="0"
+           style="font-style:normal;font-weight:bold;font-size:214.69970703px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:-15.66998291px;word-spacing:0px;fill:#1c1c1c;fill-opacity:1;stroke:none"
+           d="m 36.125,69.46875 0,156.5 40.375,0 0,-66.34375 0,-30.5 0,-4.6875 0,-54.96875 -40.375,0 z m 99.90625,0 0,59.65625 -46.59375,0 0,30.5 46.59375,0 0,66.34375 40.375,0 0,-156.5 -40.375,0 z m 241.21875,0 0,93.8125 c -2e-5,22.15493 5.57509,38.66719 16.6875,49.5 10.49555,10.23155 26.18512,15.61952 47.03125,16.1875 l 0,-29.78125 c -7.6717,-0.64315 -13.37333,-3.34712 -17.0625,-8.125 -4.19342,-5.5911 -6.28131,-14.85169 -6.28125,-27.78125 l 0,-93.8125 -40.375,0 z m 94.5625,0 0,93.8125 c -1.1e-4,12.92956 -2.11187,22.19015 -6.375,27.78125 -2.70691,3.56403 -6.55506,5.98678 -11.53125,7.25 l 0,30.40625 c 18.18918,-1.30431 32.06806,-6.62109 41.625,-15.9375 11.11224,-10.83281 16.6561,-27.34507 16.65625,-49.5 l 0,-93.8125 -40.375,0 z m 64.21875,0 0,156.5 38.28125,0 0,-114.46875 0.0312,0.0625 0,-42.09375 -38.3125,0 z m 51.25,0 0,72.375 23.09375,54.0625 25.5625,0 L 672,111.5 l 0,114.46875 38.15625,0 0,-156.5 -51.25,0 -35.84375,83.75 -35.65625,-83.75 -0.125,0 z"
+           transform="translate(0,752.36179)"
+           id="text2985" />
+        <path
+           inkscape:connector-curvature="0"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:26.58799934;marker:none;enable-background:accumulate"
+           d="M 275.90625,57.0625 198,225.75 l 29.34375,0 12.28125,-26.59375 -0.0625,0 36.53125,-79.125 37.1875,79.125 -59.40625,0 -12.28125,26.59375 113.53125,0 -79.21875,-168.6875 z"
+           transform="translate(0,752.36179)"
+           id="path3767" />
+        <rect
+           style="fill:#1c1c1c;fill-opacity:1;stroke:none"
+           id="rect3996"
+           width="155.62477"
+           height="30.304577"
+           x="198.93878"
+           y="821.98572" />
+        <rect
+           style="fill:#1c1c1c;fill-opacity:1;stroke:none"
+           id="rect3996-7"
+           width="98.481911"
+           height="30.304577"
+           x="771.6922"
+           y="-291.90344"
+           transform="matrix(0,1,-1,0,0,0)" />
+        <rect
+           style="fill:#1c1c1c;fill-opacity:1;stroke:none"
+           id="rect3996-6"
+           width="72.002571"
+           height="30.304577"
+           x="956.02881"
+           y="-291.90344"
+           transform="matrix(0,1,-1,0,0,0)" />
+      </g>
+      <image
+         xlink:href="logo_aniblue_full.png"
+         style="filter:url(#filter3810)"
+         y="462.36057"
+         x="33.30875"
+         id="image3664"
+         preserveAspectRatio="none"
+         height="123"
+         width="360" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3706"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion3708"><rect
+           id="rect3710"
+           width="681.61475"
+           height="307.04514"
+           x="43.317574"
+           y="439.54593" /></flowRegion><flowPara
+         id="flowPara3712" /></flowRoot>    <g
+       id="g4708"
+       transform="matrix(0.9685375,0,0,1,331.11661,118.14426)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3671"
+         y="338.1441"
+         x="371.21777"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan3690"
+           style="font-size:22.5px;fill:#666666"
+           y="338.1441"
+           x="371.21777"
+           sodipodi:role="line">Le Hakerspace AU Mans et la startup AniBlue vous proposent</tspan></text>
+      <flowRoot
+         transform="translate(-41.947995,-99.036396)"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot3714"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3716"><rect
+             style="text-align:justify;text-anchor:start"
+             y="439.54593"
+             x="67.524452"
+             height="106.88554"
+             width="690.54138"
+             id="rect3718" /></flowRegion><flowPara
+           style="font-weight:bold;font-size:37.5px;text-align:justify;text-anchor:start"
+           id="flowPara3722"><flowSpan
+   style="font-weight:normal;font-size:37.5px;text-align:justify;text-anchor:start"
+   id="flowSpan3728">Un </flowSpan>atelier « <flowSpan
+   id="flowSpan3760"
+   style="font-style:italic;font-weight:normal;font-size:37.5px;text-align:justify;text-anchor:start">confection et nouvelles technologies » </flowSpan><flowSpan
+   id="flowSpan3726"
+   style="font-weight:normal;font-size:37.5px;text-align:justify;text-anchor:start">sur le thème :</flowSpan></flowPara></flowRoot>      <text
+         sodipodi:linespacing="125%"
+         id="text3731"
+         y="504.50656"
+         x="372.03015"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-weight:bold;font-size:70px"
+           y="504.50656"
+           x="372.03015"
+           id="tspan3733"
+           sodipodi:role="line">Bouillottes</tspan><tspan
+           dy="-23.690615"
+           style="font-style:italic;font-weight:bold;font-size:70px"
+           id="tspan3735"
+           y="592.00659"
+           x="372.03015"
+           sodipodi:role="line">et doudous</tspan></text>
+    </g>
+    <g
+       id="g4700"
+       transform="translate(-38.406166,343.3729)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3766"
+         y="214.29019"
+         x="162.51822"
+         style="font-style:normal;font-weight:normal;font-size:21.92821121px;line-height:125%;font-family:Andika;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Andika;font-stretch:normal;font-variant:normal;"
+         xml:space="preserve"><tspan
+           style="font-size:73.09403229px;-inkscape-font-specification:Andika;font-family:Andika;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           y="214.29019"
+           x="162.51822"
+           id="tspan3768"
+           sodipodi:role="line"><tspan
+   style="font-size:35px;-inkscape-font-specification:Andika;font-family:Andika;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   id="tspan4835">à </tspan>10h</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-294.94205"
+       y="595.79236"
+       id="text3770"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-294.94205"
+         y="595.79236"
+         id="tspan3782"
+         style="font-size:17.5px" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3799"
+       y="644.74347"
+       x="38.5079"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:17.5px"
+         id="tspan3805"
+         y="644.74347"
+         x="38.5079"
+         sodipodi:role="line" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3834"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.98006863,0,0,1,327.41875,102.46656)"><flowRegion
+         id="flowRegion3836"><rect
+           id="rect3838"
+           width="680.52545"
+           height="174.43266"
+           x="31.171865"
+           y="605.98108"
+           style="font-size:20px;text-align:justify;text-anchor:start;fill:#666666" /></flowRegion><flowPara
+         id="flowPara3840">Avec l'aide de <flowSpan
+   style="font-weight:bold;font-size:20px;text-align:justify;text-anchor:start;fill:#666666"
+   id="flowSpan3842">bricoleurs <flowSpan
+   style="font-weight:normal;font-size:20px;fill:#666666"
+   id="flowSpan3846">et de </flowSpan>couturières </flowSpan>entrez dans l'univers des <flowSpan
+   style="font-weight:bold;font-size:20px;text-align:justify;text-anchor:start;fill:#666666"
+   id="flowSpan3844">loisirs créatifs </flowSpan>et apprenez à réaliser de petites figurines en tissus qui peuvent servir de <flowSpan
+   style="font-weight:bold"
+   id="flowSpan4919">doudous</flowSpan> et même à l'occasion de <flowSpan
+   style="font-weight:bold"
+   id="flowSpan4921">bouillottes</flowSpan> pour les nuits froides. Confection traditionnelle et technologies se mêleront pour créer un cadeau <flowSpan
+   style="font-weight:bold"
+   id="flowSpan3886">fait-main </flowSpan>et <flowSpan
+   style="font-weight:bold"
+   id="flowSpan3888">personnalisé </flowSpan>idéal pour offrir !</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:119.92456055px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="530.88373"
+       y="531.05847"
+       id="text3854"
+       sodipodi:linespacing="125%"
+       transform="scale(1.3038329,0.76696945)"><tspan
+         sodipodi:role="line"
+         id="tspan3856"
+         x="530.88373"
+         y="531.05847"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andika;-inkscape-font-specification:Andika;fill:#666666">ATELIER</tspan></text>
+    <g
+       id="g4722"
+       transform="matrix(0.98006863,0,0,1,236.16729,1117.0803)">
+      <flowRoot
+         transform="translate(-63.00412,-923.72881)"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot3814"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3816"><rect
+             y="706.97791"
+             x="542.3905"
+             height="113.76057"
+             width="322.66843"
+             id="rect3818" /></flowRegion><flowPara
+           style="font-weight:bold"
+           id="flowPara3820">Participation aux frais:</flowPara><flowPara
+           id="flowPara3824"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan4734"><flowSpan
+     style="font-weight:normal"
+     id="flowSpan4738">30€ -</flowSpan></flowSpan> tarif normal</flowPara><flowPara
+           id="flowPara3826">10€ - tarif réduit (membres du HAUM, étudiants, -18 ans)</flowPara><flowPara
+           id="flowPara4732">Possibilités de réduction avec le service jeunesse de la ville du Mans</flowPara><flowPara
+           id="flowPara3822" /></flowRoot>      <rect
+         ry="17.891497"
+         rx="14.250508"
+         y="-220.39169"
+         x="482.68073"
+         height="122.65891"
+         width="317.5517"
+         id="rect4692"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.92594576px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.84976196px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="566.15717"
+       y="954.53754"
+       id="text4694"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98998416,1.0101172)"><tspan
+         sodipodi:role="line"
+         id="tspan4696"
+         x="566.15717"
+         y="954.53754"><tspan
+           style="font-weight:bold"
+           id="tspan4698">Contact : </tspan><tspan
+           style="fill:#ff0000"
+           id="tspan4907">????@haum.org</tspan></tspan></text>
+    <g
+       id="g4798"
+       transform="translate(3.2369235,-12.468746)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4770"
+         y="496.25613"
+         x="173.85266"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:Andika;-inkscape-font-specification:Andika;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="496.25613"
+           x="173.85266"
+           id="tspan4772"
+           sodipodi:role="line"><tspan
+   id="tspan4774"
+   style="font-size:125px">28</tspan>mai</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="266.63586"
+         y="529.51978"
+         id="text3692"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3694"
+           x="266.63586"
+           y="529.51978">2016</tspan></text>
+    </g>
+    <text
+       transform="scale(1.2039212,0.83061917)"
+       sodipodi:linespacing="125%"
+       id="text3667"
+       y="457.17059"
+       x="147.72462"
+       style="font-style:normal;font-weight:normal;font-size:50.49784851px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:60.59741592px;fill:#666666"
+         y="457.17059"
+         x="147.72462"
+         id="tspan3669"
+         sodipodi:role="line">Samedi</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4842"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,315.74897)"><flowRegion
+         id="flowRegion4844"><rect
+           id="rect4846"
+           width="293.59729"
+           height="240.6468"
+           x="30.858574"
+           y="264.04773"
+           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4879">Rendez-vous au local du HAUM</flowPara><flowPara
+         id="flowPara4852"
+         style="font-weight:bold">19, b<flowSpan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="flowSpan4858">d</flowSpan> Marie et Alexandre Oyon</flowPara><flowPara
+         style="font-weight:bold"
+         id="flowPara4854">3<flowSpan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="flowSpan4883">ème</flowSpan> étage</flowPara><flowPara
+         style="font-weight:bold"
+         id="flowPara4885">72100 LE MANS</flowPara><flowPara
+         id="flowPara4850"
+         style="font-style:italic">Proche de la gare, côté sud</flowPara></flowRoot>    <g
+       id="g4988">
+      <rect
+         y="687.34937"
+         x="72.297226"
+         height="134.89604"
+         width="200.13989"
+         id="rect4887"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4889"
+         d="M 72.297226,687.34937 272.43713,822.24542"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4891"
+         d="M 72.297226,822.24542 272.43713,687.34937"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="730.0451"
+         x="84.16404"
+         height="47.381237"
+         width="170.82182"
+         id="rect4915"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4909"
+         y="748.74817"
+         x="170.82182"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         xml:space="preserve"><tspan
+           y="748.74817"
+           x="170.82182"
+           id="tspan4911"
+           sodipodi:role="line">Ici, une photo d'une</tspan><tspan
+           id="tspan4913"
+           y="767.49817"
+           x="170.82182"
+           sodipodi:role="line">réalisation serait cool</tspan></text>
+    </g>
+  </g>
+</svg>
