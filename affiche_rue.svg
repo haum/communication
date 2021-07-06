@@ -2,23 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="148mm"
    id="svg3044"
    version="1.1"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="affiche_rue.svg"
    inkscape:export-filename="/tmp/stickers2.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180"
-   viewBox="0 0 744.09452 524.40942">
+   viewBox="0 0 744.09452 524.40942"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,17 +27,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3985119"
-     inkscape:cx="396.85039"
-     inkscape:cy="279.68504"
+     inkscape:cx="372.53884"
+     inkscape:cy="279.94041"
      inkscape:document-units="px"
      inkscape:current-layer="g3453"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="1005"
-     inkscape:window-x="1280"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
@@ -52,7 +52,8 @@
      inkscape:snap-text-baseline="true"
      inkscape:measure-start="217.291,84.3847"
      inkscape:measure-end="217.291,103.371"
-     units="mm">
+     units="mm"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid5227"
@@ -92,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -644,15 +645,15 @@
          id="text6304"
          y="118.12372"
          x="35.311939"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:0.57371473"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:0.573715"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.31191635px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#b32c0e;fill-opacity:1;stroke-width:0.57371473"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.3119px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#b32c0e;fill-opacity:1;stroke-width:0.573715"
            y="118.12372"
            x="35.311939"
            id="tspan6302"
            sodipodi:role="line">haum.org</tspan><tspan
            id="tspan6336"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.31191635px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#b32c0e;fill-opacity:1;stroke-width:0.57371473"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.3119px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#b32c0e;fill-opacity:1;stroke-width:0.573715"
            y="133.51361"
            x="35.311939"
            sodipodi:role="line"> </tspan></text>
@@ -705,47 +706,49 @@
            id="text3181"
            y="40.411205"
            x="210.41975"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:0.42435628"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:0.424356"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.23149014px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#b32c0e;fill-opacity:1;stroke-width:0.42435628"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.23149px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#b32c0e;fill-opacity:1;stroke-width:0.424356"
              y="40.411205"
              x="210.41975"
              id="tspan3183"
              sodipodi:role="line"><tspan
-   style="font-size:6.70453978px;font-family:sans-serif;fill:#cccccc;stroke-width:0.42435628"
+   style="font-size:6.70454px;font-family:sans-serif;fill:#cccccc;stroke-width:0.424356"
    id="tspan4603">Twitter </tspan><tspan
-   style="font-size:6.70453978px;font-family:sans-serif;stroke-width:0.42435628"
+   style="font-size:6.70454px;font-family:sans-serif;stroke-width:0.424356"
    id="tspan4607" />@haum72</tspan></text>
         <text
            id="text3372"
            y="49.832699"
            x="211.67705"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:0.42435628"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:0.424356"
            xml:space="preserve"
            transform="scale(0.95214119,1.0502644)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.10668468px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#b32c0e;fill-opacity:1;stroke-width:0.42435628"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.10668px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#b32c0e;fill-opacity:1;stroke-width:0.424356"
              y="49.832699"
              x="211.67705"
              id="tspan3374"
              sodipodi:role="line"><tspan
-   style="font-size:6.70453978px;font-family:sans-serif;fill:#cccccc;stroke-width:0.42435628"
+   style="font-size:6.70454px;font-family:sans-serif;fill:#cccccc;stroke-width:0.424356"
    id="tspan4599">IRC </tspan><tspan
-   style="font-size:6.70453978px;font-family:sans-serif;stroke-width:0.42435628"
+   style="font-size:6.70454px;font-family:sans-serif;stroke-width:0.424356"
    id="tspan4605" />#haum<tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.30445385px;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';stroke-width:0.42435628"
-   id="tspan6476"> freenode</tspan></tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.30445px;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';stroke-width:0.424356"
+   id="tspan6476"> libera</tspan></tspan></text>
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54692698px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31836587px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="22.854937"
-         y="159.37456"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.89636px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#668000;fill-opacity:1;stroke:none;stroke-width:0.318366px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="43.924858"
+         y="167.6499"
          id="text4957"><tspan
            sodipodi:role="line"
            id="tspan4955"
-           x="22.854937"
-           y="159.37456"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.97951317px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31836587px">2ème étage</tspan></text>
+           x="43.924858"
+           y="167.6499"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.9757px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.318366px;fill:#668000">2<tspan
+   style="font-size:16.8842px;baseline-shift:super;stroke-width:0.318366px;fill:#668000"
+   id="tspan10473">ème</tspan> étage</tspan></text>
       <flowRoot
          xml:space="preserve"
          id="flowRoot4959"
@@ -757,39 +760,41 @@
              height="10.666667"
              x="304.99088"
              y="347.44809" /></flowRegion><flowPara
-           id="flowPara4965"></flowPara></flowRoot>      <text
+           id="flowPara4965" /></flowRoot>
+      <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54692698px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31836587px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="42.499107"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54693px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318366px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="55.675732"
          y="184.50226"
          id="text4969"><tspan
            sodipodi:role="line"
-           x="42.499107"
+           x="55.675732"
            y="184.50226"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.1877079px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31836587px"
-           id="tspan4973">Si la porte est fermée</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.1877px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.318366px"
+           id="tspan4973">Si la porte est fermée,</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54692698px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31836587px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="42.499107"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54693px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318366px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="36.829975"
          y="197.67796"
          id="text4981"><tspan
            sodipodi:role="line"
            id="tspan4979"
-           x="42.499107"
+           x="36.829975"
            y="197.67796"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.1877079px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31836587px">Sonnez &quot;Le Mans Innovation&quot;</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.1877px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.318366px">sonnez &quot;Le Mans Innovation&quot;</tspan></text>
       <flowRoot
          xml:space="preserve"
          id="flowRoot4983"
-         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:OCRA;font-style:normal;font-weight:normal;font-size:8px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'OCRA, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
            id="flowRegion4985"><rect
              id="rect4987"
              width="21.333334"
              height="10.666667"
              x="155.65756"
              y="475.44809" /></flowRegion><flowPara
-           id="flowPara4989"></flowPara></flowRoot>    </g>
+           id="flowPara4989" /></flowRoot>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
