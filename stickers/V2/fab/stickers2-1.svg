@@ -2,22 +2,22 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="264.56693"
    height="113.38583"
    id="svg3044"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="stickers2-1.svg"
    inkscape:export-filename="/tmp/stickers2.png"
    inkscape:export-xdpi="180"
-   inkscape:export-ydpi="180">
+   inkscape:export-ydpi="180"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,19 +25,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.2426407"
-     inkscape:cx="134.32278"
-     inkscape:cy="61.1289"
+     inkscape:zoom="6"
+     inkscape:cx="189.5"
+     inkscape:cy="52.083333"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g6698"
      showgrid="true"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="724"
+     inkscape:window-width="1916"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -50,7 +50,10 @@
      inkscape:snap-page="true"
      inkscape:snap-text-baseline="true"
      inkscape:measure-start="217.291,84.3847"
-     inkscape:measure-end="217.291,103.371">
+     inkscape:measure-end="217.291,103.371"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        id="guide3169"
        position="302.18095,7.5590551"
@@ -87,7 +90,8 @@
     <sodipodi:guide
        position="58.333333,113.33333"
        orientation="0,1"
-       id="guide4369" />
+       id="guide4369"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs3046">
@@ -110,7 +114,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -662,24 +665,6 @@
              inkscape:connector-curvature="0" />
         </g>
       </g>
-      <text
-         sodipodi:linespacing="0%"
-         transform="scale(0.91578789,1.0919559)"
-         id="text6304"
-         y="118.12372"
-         x="35.311939"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.88457632px;line-height:0%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:0.57371473"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.31191635px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans Bold';fill:#b32c0e;fill-opacity:1;stroke-width:0.57371473"
-           y="118.12372"
-           x="35.311939"
-           id="tspan6302"
-           sodipodi:role="line">haum.org</tspan><tspan
-           id="tspan6336"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.31191635px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans Bold';fill:#b32c0e;fill-opacity:1;stroke-width:0.57371473"
-           y="133.51361"
-           x="35.311939"
-           sodipodi:role="line" /></text>
       <g
          inkscape:label="Calque 1"
          id="layer1-0"
@@ -725,41 +710,31 @@
          transform="matrix(1.1034535,0,0,1.1034535,16.33405,2.4397298)"
          id="g6698">
         <text
-           sodipodi:linespacing="0%"
-           transform="scale(0.95940544,1.0423122)"
+           transform="scale(0.94400001,1.059322)"
            id="text3181"
-           y="40.411205"
-           x="210.41975"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.09227562px;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:0.42435628"
+           y="50.226551"
+           x="214.08527"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.0902px;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:0.675087"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.23149014px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#b32c0e;fill-opacity:1;stroke-width:0.42435628"
-             y="40.411205"
-             x="210.41975"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6859px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#b32c0e;fill-opacity:1;stroke-width:0.675087"
+             y="50.226551"
+             x="214.08527"
              id="tspan3183"
              sodipodi:role="line"><tspan
-   style="font-size:6.70453978px;fill:#cccccc;stroke-width:0.42435628"
-   id="tspan4603">twitter </tspan><tspan
-   style="font-size:6.70453978px;stroke-width:0.42435628"
-   id="tspan4607" />@haum72</tspan></text>
+   style="font-size:10.6659px;font-family:sans-serif;fill:#cccccc;stroke-width:0.675087"
+   id="tspan4603">https://</tspan>haum.org</tspan></text>
         <text
-           sodipodi:linespacing="0%"
            id="text3372"
            y="49.832699"
            x="211.67705"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.09227562px;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:0.42435628"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:0.424356"
            xml:space="preserve"
            transform="scale(0.95214119,1.0502644)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.10668468px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#b32c0e;fill-opacity:1;stroke-width:0.42435628"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.10668px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#b32c0e;fill-opacity:1;stroke-width:0.424356"
              y="49.832699"
              x="211.67705"
              id="tspan3374"
-             sodipodi:role="line"><tspan
-   style="font-size:6.70453978px;fill:#cccccc;stroke-width:0.42435628"
-   id="tspan4599">matrix.org:</tspan><tspan
-   style="font-size:6.70453978px;stroke-width:0.42435628"
-   id="tspan4605" />HAUM<tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.30445385px;font-family:Sans;-inkscape-font-specification:'Sans Bold';stroke-width:0.42435628"
-   id="tspan6476"> </tspan></tspan></text>
+             sodipodi:role="line" /></text>
       </g>
     </g>
   </g>
